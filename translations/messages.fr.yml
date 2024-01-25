@@ -610,3 +610,5 @@ password_criterion_uppercase: Majuscule
 take_away_account_data: Je souhaite récupérer mes données
 your_personal_data_request_has_been_send_to_tech_team: Votre demande de récupération de vos données à été transmise à nos équipes dédiées.
 you_will_be_contacted_soon: Vous serez contacté dans les meilleurs délais à ce sujet.
+enable_mfa: Activer l'authentification à deux facteurs
+enable_mfa_help: Afin de sécuriser votre compte, en cochant cette case, à chaque connexions vous reçevrez par email un code à usage unique à saisir afin de valider votre connexion

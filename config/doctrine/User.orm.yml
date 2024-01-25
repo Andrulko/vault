@@ -149,6 +149,12 @@ App\Entity\User:
         cgsAcceptedAt:
             type: datetime_immutable
             nullable: true
+        authCode:
+            type: string
+            nullable: true
+        mfaEnabled:
+            type: boolean
+            nullable: true
     oneToOne:
         subjectAdministrateur:
             targetEntity: App\Entity\Administrateur
